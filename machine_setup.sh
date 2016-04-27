@@ -5,6 +5,7 @@ sudo apt-get -y upgrade
 sudo apt-get -y install openssh-server
 sudo apt-get -y install gcc
 sudo apt-get -y install g++
+sudo apt-get -y install nasm
 sudo apt-get -y install curl
 sudo apt-get -y install tmux
 sudo apt-get -y install openvpn
